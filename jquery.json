@@ -1,0 +1,19 @@
+{
+    "name":"disable",
+    "version": "0.1",
+    "title": "Disable any element from being interacted with",
+    "author": {
+        "name": "Kev Zettler",
+        "email": "kevzettler@gmail.com",
+        "url": "http://kevzettler.com"              
+    },
+    "licenses": [{
+        "type" : "MIT",
+        "url": "http://www.opensource.org/licenses/MIT"
+    }],
+    "dependencies": {
+        "jquery": ">=1.4"
+    },
+    "description": "",
+    "keywords":["disable"]    
+}
